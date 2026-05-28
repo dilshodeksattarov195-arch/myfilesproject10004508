@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervarse",
+        "uuid": 9462292,
+        "checksum": "cfbo2r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
